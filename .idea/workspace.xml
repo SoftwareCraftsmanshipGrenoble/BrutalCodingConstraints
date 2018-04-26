@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c38f358f-8b1a-4dd9-9286-82a75703a472" name="Default" comment="" />
+    <list default="true" id="c38f358f-8b1a-4dd9-9286-82a75703a472" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ttt/Board.class" afterPath="$PROJECT_DIR$/target/classes/ttt/Board.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ttt/Case.class" afterPath="$PROJECT_DIR$/target/classes/ttt/Case.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ttt/GameState.class" afterPath="$PROJECT_DIR$/target/classes/ttt/GameState.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ttt/Player$1.class" afterPath="$PROJECT_DIR$/target/classes/ttt/Player$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ttt/Player$2.class" afterPath="$PROJECT_DIR$/target/classes/ttt/Player$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ttt/Player$3.class" afterPath="$PROJECT_DIR$/target/classes/ttt/Player$3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ttt/Player.class" afterPath="$PROJECT_DIR$/target/classes/ttt/Player.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/ttt/GameStateTest.class" afterPath="$PROJECT_DIR$/target/test-classes/ttt/GameStateTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TicTacToe.iml" afterPath="$PROJECT_DIR$/TicTacToe.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ttt/Board.java" afterPath="$PROJECT_DIR$/src/main/java/ttt/Board.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ttt/Case.java" afterPath="$PROJECT_DIR$/src/main/java/ttt/Case.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/ttt/GameStateTest.java" afterPath="$PROJECT_DIR$/src/test/java/ttt/GameStateTest.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,8 +35,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+            <state relative-caret-position="517">
+              <caret line="45" column="12" lean-forward="false" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -29,25 +45,10 @@
       <file leaf-file-name="GameStateTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ttt/GameStateTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="32" column="26" lean-forward="true" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+            <state relative-caret-position="-173">
+              <caret line="28" column="38" lean-forward="true" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Case.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ttt/Case.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="82" lean-forward="false" selection-start-line="3" selection-start-column="82" selection-end-line="3" selection-end-column="82" />
-              <folding>
-                <element signature="e#163#164#0" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
-                <element signature="e#223#224#0" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -57,12 +58,8 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/ttt/GameState.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="277">
-              <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+              <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
               <folding>
-                <element signature="e#122#123#0" expanded="true" />
-                <element signature="e#165#166#0" expanded="true" />
-                <element signature="e#334#335#0" expanded="true" />
-                <element signature="e#419#420#0" expanded="true" />
                 <element signature="e#449#450#0" expanded="true" />
                 <element signature="e#486#487#0" expanded="true" />
               </folding>
@@ -86,14 +83,48 @@
       <file leaf-file-name="Board.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ttt/Board.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+            <state relative-caret-position="274">
+              <caret line="62" column="41" lean-forward="true" selection-start-line="62" selection-start-column="41" selection-end-line="62" selection-end-column="41" />
               <folding>
-                <element signature="e#76#77#0" expanded="true" />
-                <element signature="e#111#112#0" expanded="true" />
-                <element signature="e#147#148#0" expanded="true" />
-                <element signature="e#181#182#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#656#657#0" expanded="true" />
+                <element signature="e#692#693#0" expanded="true" />
+                <element signature="e#884#885#0" expanded="true" />
+                <element signature="e#918#919#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Optional.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/Optional.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="251" column="13" lean-forward="false" selection-start-line="251" selection-start-column="13" selection-end-line="251" selection-end-column="13" />
+              <folding>
+                <element signature="e#8628#8629#0" expanded="true" />
+                <element signature="e#8680#8681#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TicTacToe.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TicTacToe.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -108,6 +139,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
       <map>
@@ -121,15 +160,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/ttt/TicTacToe.java" />
         <option value="$PROJECT_DIR$/src/main/java/ttt/Coordinate.java" />
         <option value="$PROJECT_DIR$/src/main/java/ttt/TicTacToe.java" />
         <option value="$PROJECT_DIR$/src/test/java/ttt/TicTacToeTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ttt/Case.java" />
         <option value="$PROJECT_DIR$/src/main/java/ttt/Player.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ttt/GameStateTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ttt/GameState.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ttt/Case.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ttt/GameStateTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ttt/Board.java" />
       </list>
     </option>
@@ -146,6 +185,7 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -219,6 +259,36 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ttt" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TicTacToe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="TicTacToe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="TicTacToe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TicTacToe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -228,6 +298,10 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="extract.method.default.visibility" value="private" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -385,34 +459,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GameStateTest - 2018.04.26 at 20h 08m 41s.xml">
+    <history-entry file="GameStateTest - 2018.04.26 at 21h 18m 46s.xml">
       <configuration name="GameStateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GameStateTest - 2018.04.26 at 20h 09m 13s.xml">
+    <history-entry file="GameStateTest - 2018.04.26 at 21h 18m 59s.xml">
       <configuration name="GameStateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GameStateTest - 2018.04.26 at 20h 09m 19s.xml">
+    <history-entry file="GameStateTest - 2018.04.26 at 21h 19m 07s.xml">
       <configuration name="GameStateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GameStateTest - 2018.04.26 at 20h 09m 24s.xml">
+    <history-entry file="GameStateTest - 2018.04.26 at 21h 19m 13s.xml">
       <configuration name="GameStateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GameStateTest - 2018.04.26 at 20h 09m 30s.xml">
+    <history-entry file="GameStateTest - 2018.04.26 at 21h 19m 17s.xml">
       <configuration name="GameStateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GameStateTest - 2018.04.26 at 20h 09m 53s.xml">
+    <history-entry file="GameStateTest - 2018.04.26 at 21h 19m 25s.xml">
       <configuration name="GameStateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GameStateTest - 2018.04.26 at 20h 10m 26s.xml">
+    <history-entry file="GameStateTest - 2018.04.26 at 21h 19m 30s.xml">
       <configuration name="GameStateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GameStateTest - 2018.04.26 at 20h 10m 34s.xml">
+    <history-entry file="GameStateTest - 2018.04.26 at 21h 19m 35s.xml">
       <configuration name="GameStateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GameStateTest - 2018.04.26 at 20h 11m 48s.xml">
+    <history-entry file="GameStateTest - 2018.04.26 at 21h 21m 18s.xml">
       <configuration name="GameStateTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GameStateTest - 2018.04.26 at 20h 12m 07s.xml">
+    <history-entry file="GameStateTest - 2018.04.26 at 21h 21m 24s.xml">
       <configuration name="GameStateTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -440,20 +514,20 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="FAQ Robot" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -465,52 +539,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ttt/GameState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-          <folding>
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#419#420#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ttt/Case.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="82" lean-forward="false" selection-start-line="3" selection-start-column="82" selection-end-line="3" selection-end-column="82" />
-          <folding>
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ttt/GameStateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="32" column="26" lean-forward="true" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ttt/Player.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -522,15 +550,80 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/TicTacToe.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="251" column="13" lean-forward="false" selection-start-line="251" selection-start-column="13" selection-end-line="251" selection-end-column="13" />
+          <folding>
+            <element signature="e#8628#8629#0" expanded="true" />
+            <element signature="e#8680#8681#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ttt/Case.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="93" lean-forward="false" selection-start-line="3" selection-start-column="93" selection-end-line="3" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="45" column="12" lean-forward="false" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ttt/GameState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding>
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ttt/GameStateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-173">
+          <caret line="28" column="38" lean-forward="true" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ttt/Board.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        <state relative-caret-position="274">
+          <caret line="62" column="41" lean-forward="true" selection-start-line="62" selection-start-column="41" selection-end-line="62" selection-end-column="41" />
           <folding>
-            <element signature="e#76#77#0" expanded="true" />
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#656#657#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#884#885#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -538,9 +631,81 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>TicTacToe</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.10</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
